@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mayank Pradhan</h1>
+<div align="center">
+  
+![Mayank Pradhan](https://readme-typing-svg.demolab.com?font=Julee&size=30&duration=4000&pause=500&color=&center=true&width=435&lines=Hola!+I'm+Mayank+Pradhan;+;YOU+DREAM+IT.++I+CREATE+IT.)
+  
+</div>
 <h3 align="center">A passionate <h1> frontend  JavaScript/React developer </h1> from India , travel-obsessed student of web development , writing about productivity & tech . you can hire me for you work  
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 </h3>
 - 🌱 I’m currently learning **FSJS Bootcamp2.0**
