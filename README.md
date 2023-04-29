@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [   https://hashnode.com/@Myankpradhan](https://hashnode.com/@Myankpradhan)
 
-- 💬 Ask me about **html,css,js,tailwind,JavaScript,ReactJs**
+- 💬 Ask me about **html,css,js,tailwind,JavaScript,ReactJs,NodeJs,Mongo**
 
 - 📫 How to reach me **mayankpradhan115@gmail.com**
 
